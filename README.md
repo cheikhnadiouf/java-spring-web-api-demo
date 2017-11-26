@@ -1,4 +1,4 @@
-A full working Spring/Angular demo app (monolithic architecture), exhaustive examples of common web services that we can made with this great yeoman generator Jhipster including Spring (as backend framework), Angular(as frontend framework), Bootstrap (as UI/theme framework), MySQL or SQLite (as DataBase) and much more features.
+A full working Spring/Angular demo app (monolithic architecture), exhaustive examples of common web services that we can made with this great yeoman generator Jhipster including Spring (as backend framework), Angular(as frontend framework), Bootstrap (as UI/theme framework), MySQL or H2 (as DataBase) and much more features.
 
 Additional reference for jhipster : http://www.jhipster.tech
 
